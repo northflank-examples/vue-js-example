@@ -12,7 +12,7 @@ Deploy this Vue.js site easily with [Northflank](https://www.northflank.com):
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
 ### Live Demo
-[https://port--vue-js-example--examples--nort-xjjq.code.run](https://port--vue-js-example--examples--nort-xjjq.code.run)
+[https://example--vue-js--examples--nort-kcwl.code.run](https://example--vue-js--examples--nort-kcwl.code.run)
 
 ## About Vue.js
 
