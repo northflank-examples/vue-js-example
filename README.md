@@ -1,29 +1,30 @@
 # Northflank Vue.js Demo
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.northflank.com">
-    <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
+    <img alt="Northflank" align="right" src="/public/logo.svg" width="35%" />
 </a>
 
-Deploy this Vue.js site easily with [Northflank](https://www.northflank.com):
+Deploy this Vite-powered Vue 3 site easily on [Northflank](https://www.northflank.com) by selecting the Vue.js template when creating a new service.
 
-- Clone this repository
+Alternatively you can:
+
+- Clone this repository to your Git account
 - Select this repository in Northflank when creating a new service
-- Expose port 80
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
-### Live Demo
-[https://example--vue-js--examples--nort-kcwl.code.run](https://example--vue-js--examples--nort-kcwl.code.run)
-
-## About Vue.js
-
-[Vue.js ](https://vuejs.org/) is an open-source JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members coming from various companies such as Netlify and Netguru.
-
-This project was bootstrapped with [`@vue/cli`](https://cli.vuejs.org/).
-
 ## Getting Started 🚀
+
 Set up your local development environment by following these steps:
 
-1.  **Install packages.**
+1.  **Clone the repository locally.**
+
+```bash
+git clone https://github.com/northflank-examples/vue-vite-example
+# or
+git clone https://github.com/<your-account>/vue-vite-example
+```
+
+2. **Install packages.**
 
 ```bash
 npm install
@@ -31,33 +32,41 @@ npm install
 yarn install
 ```
 
-1.  **Start developing.**
+3. **Start developing.**
 
 ```bash
-npm run serve
+npm run dev
 # or
-yarn serve
+yarn dev
 ```
-
-The live development website should now appear at [http://localhost](http://localhost)
-
 
 ## Available scripts
 
-### Compiles and hot-reloads for development
+### Compile and hot-reload for development
 ```
-yarn serve
+npm run dev
+# or
+yarn dev
 ```
 
-### Compiles and minifies for production
+### Type-check, compile and minify for production
 ```
+npm run build
+# or
 yarn build
 ```
 
-### Lints and fixes files
+### Preview your local build
 ```
-yarn lint
+npm run preview
+# or
+yarn preview
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You can also run `build-only` to build without type-checking, `type-check` just to type check, and `lint` to 
+
+## Learn more
+
+This [Vite](https://vitejs.dev/) [Vue.js](https://vuejs.org/guide/quick-start.html) example was made using [create vue](https://github.com/vuejs/create-vue).
+
+It was created with TypeScript, Vue Router, ESLint, and Prettier installed.
