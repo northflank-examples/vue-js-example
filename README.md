@@ -12,6 +12,10 @@ Alternatively you can:
 - Select this repository in Northflank when creating a new service
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
+### Live demo
+
+[https://example--vue-js--examples--nort-kcwl.code.run/](https://example--vue-js--examples--nort-kcwl.code.run/)
+
 ## Getting Started 🚀
 
 Set up your local development environment by following these steps:
