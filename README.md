@@ -1,7 +1,7 @@
 # Northflank Vue.js Demo
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.northflank.com">
-    <img alt="Northflank" align="right" src="/public/logo.svg" width="35%" />
+    <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
 </a>
 
 Deploy this Vite-powered Vue 3 site easily on [Northflank](https://www.northflank.com) by selecting the Vue.js template when creating a new service.
