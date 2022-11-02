@@ -23,9 +23,9 @@ Set up your local development environment by following these steps:
 1.  **Clone the repository locally.**
 
 ```bash
-git clone https://github.com/northflank-examples/vue-vite-example
+git clone https://github.com/northflank-examples/vue-js-example
 # or
-git clone https://github.com/<your-account>/vue-vite-example
+git clone https://github.com/<your-account>/vue-js-example
 ```
 
 2. **Install packages.**
