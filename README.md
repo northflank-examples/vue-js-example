@@ -67,7 +67,7 @@ npm run preview
 yarn preview
 ```
 
-You can also run `build-only` to build without type-checking, `type-check` just to type check, and `lint` to 
+You can also run `build-only` to build without type-checking, `type-check` just to type check, and `lint` to lint the code.
 
 ## Learn more
 
