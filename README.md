@@ -1,4 +1,4 @@
-# Northflank Vue.js Demo
+# Northflank Vue.js template
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.northflank.com">
     <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
@@ -8,9 +8,13 @@ Deploy this Vite-powered Vue 3 site easily on [Northflank](https://www.northflan
 
 Alternatively you can:
 
-- Clone this repository to your Git account
-- Select this repository in Northflank when creating a new service
+- [Create a service from template on Northflank](https://app.northflank.com/s/project/create/template-service)
+- Select the Vue.js template
 - Wait for the app to build and visit the newly assigned URL. That's it!
+
+You can now clone your repository locally and start making changes. Push your changes to automatically build and deploy the updated application!
+
+[Learn more about using Northflank](https://northflank.com/docs/).
 
 ### Live demo
 
